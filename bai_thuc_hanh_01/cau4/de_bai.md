@@ -1,0 +1,1 @@
+# Vẽ sơ đồ khối giải thuật tìm bội số chung nhỏ nhất của 2 số nguyên dương.

@@ -1,0 +1,1 @@
+# Vẽ sơ đồ khối giải thuật kiểm tra một số nguyên dương có là một số nguyên tố hay ko?
